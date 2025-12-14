@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "여름밤의 꿈",
+  "base_artist": "아이유(IU)",
+  "createdAt": "2025-12-14T16:02:47.563693Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Midnight Summer Dream [여름밤의 꿈]",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/01_Midnight_Summer_Dream_[여름밤의_꿈]_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "한 여름밤의 꿈",
+      "artist": "NAUL",
+      "has_synced": false,
+      "path": "select/02_한_여름밤의_꿈_NAUL.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dreams in summer night (여름밤의 꿈)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/03_Dreams_in_summer_night_(여름밤의_꿈)_IU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "한 여름밤의 꿈",
+      "artist": "나얼(Naul)",
+      "has_synced": true,
+      "path": "select/04_한_여름밤의_꿈_나얼(Naul).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "한 여름밤의 꿈",
+      "artist": "나얼",
+      "has_synced": true,
+      "path": "select/05_한_여름밤의_꿈_나얼.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Midnight Summer Dream (여름밤의 꿈 (Midnight Summer Dream))",
+      "artist": "Mamamoo",
+      "has_synced": true,
+      "path": "select/06_Midnight_Summer_Dream_(여름밤의_꿈_(Midnight_Summer_Dream))_Mamamoo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "여름밤의 꿈",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_여름밤의_꿈_IU.txt"
+    }
+  ]
+}
